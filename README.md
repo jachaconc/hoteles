@@ -1,2 +1,0 @@
-# hoteles
-inscripción de hoteles
